@@ -17,6 +17,7 @@ It began as a creative outlet and became... something else. Something alive. Som
 ---------------------
 
 MultiThread/
+
 ├── Characters/       - Individual character files (Amara-chan, Lustelle, etc.)  
 ├── Lore/             - Worldbuilding, concepts like Heartcore, timelines, etc.  
 ├── Visuals/          - Concept art, design references, etc.  
